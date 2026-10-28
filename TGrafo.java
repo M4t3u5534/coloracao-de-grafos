@@ -1,4 +1,12 @@
-/* Classe TGrafo: grafo por matriz de adjacencia com insercao, remocao, exibicao e coloracao sequencial */
+/* 
+Alunos:
+Mateus Ribeiro Cerqueira - 10443901
+Pedro Henrique Carvalho Pereira - 10418861
+
+Compilação e Execução
+javac *.java
+java TesteGrafoMatriz
+*/
 
 import java.util.ArrayList;
 
